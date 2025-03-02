@@ -1,4 +1,3 @@
-\begin{minted}{C++}
 #include <iostream>
 #include <cmath>
 #include <vector>
